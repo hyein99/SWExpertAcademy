@@ -66,11 +66,6 @@ def solution():
         # 종료조건
         if second > 1000:
             return -1
-
-        # print()
-        # print(*smell_arr, sep='\n')
-        # print(*location_arr, sep='\n')
-        # print(jaws)
     
     return second
 
